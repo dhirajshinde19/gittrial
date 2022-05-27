@@ -3,4 +3,4 @@ for i in range(10):
     print("hello")
     print("dhiraj")
     print('vaibhav')
-    print('dhiraj')
+    print('aman')
